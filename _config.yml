@@ -42,7 +42,7 @@ home:
     smallHeading: ""
     items:
     - heading: "SaaS and Web Applications"
-      image: "/assets/img/sass.png"
+      image: "assets/img/sass.png"
       body: > 
         Our solution will help you provide the best services to your customers.
       url: 
@@ -50,19 +50,19 @@ home:
     - heading: "Mobile apps"
       body: > 
         No matter where your staff or customers are, they’ll be as close as your App on their device.
-      image: "/assets/img/mobileapps.png"
+      image: "assets/img/mobileapps.png"
       url: 
       urlText: "View more"
     - heading: "Business Process"
       body: > 
         Enhance your operation, speed delivery time and increase profits by fully automating those costly labor-intensive tasks.
-      image: "/assets/img/businessprocess.png"
+      image: "assets/img/businessprocess.png"
       url: 
       urlText: "View more"
     - heading: "Systems Integrations"
       body: > 
         We can integrate your systems that lower your costs while ending manual entries and the errors that go with them.
-      image: "/assets/img/system-integration.png"   
+      image: "assets/img/system-integration.png"   
       url: 
       urlText: "View more"
   solutions:
@@ -72,7 +72,7 @@ home:
     smallHeading: ""
     items:
     - heading: "Case Study 1: SAAS web application for startup"
-      image: "/assets/img/Portfolio1.png"
+      image: "assets/img/Portfolio1.png"
       body: > 
         This application was designed and developed as a real-time, crowdsourced brainstorming tool that lets you gather insights and input from marketers, entrepreneurs, creators and innovative thinkers. <br><br>We implemented full Video, audio and chat integration (for up to 5 participants at a time), as well as a live shareable whiteboard, file sharing and much more. The app has full payment integration and scheduled payouts that utilizes both stripe and paypal platforms.
       url: 
@@ -80,13 +80,13 @@ home:
     - heading: "Case Study 2: SAAS Mobile app for startup"
       body: > 
        The Tern app lets you schedule your returns for when it works for your schedule. With one click, the goods are on their way back to the merchant and money is on its way back into your account. No traffic, no lines to wait in, no problem.
-      image: "/assets/img/Portfolio2.png"
+      image: "assets/img/Portfolio2.png"
       url: 
       urlText: "View more"
     - heading: "Case Study 3: Client portal for established business"
       body: > 
         This project was developed for our client to enable them to quickly and easily manage critical business information and share it with their customers, including data, geolocations, documents and photos. <br><br>Each of the clients customers have a secure login to the portal to access their specific sites and information within each site. <br><br>There is an admin module to for the business owners to manage their information, and a read only role for external users and client rep
-      image: "/assets/img/Portfolio3.png"
+      image: "assets/img/Portfolio3.png"
       url: 
       urlText: "View more"
       urlText: "View more"
@@ -98,21 +98,21 @@ home:
     items:
     - name: "Brett"
       position: "CEO - HyperIQ"
-      image: "/assets/img/team-1bg.png"
+      image: "assets/img/team-1bg.png"
       body: > 
         Calnetic was terrific to work with. They were knowledgeable, timely and easy to work with. Highly recommended!!
       url: 
       urlText: "View more"
     - name: "Rob"
       position: "CEO - SO Investment Services"
-      image: "/assets/img/team-2bg.png"
+      image: "assets/img/team-2bg.png"
       body: > 
         My team would recommend Calnetic to others. They had the skills we required and completed the project as the scope of work defined. Calnetic was thorough and built a solid foundation for the project which allowed for scale, saving time and costs
       url: 
       urlText: "View more"
     - name: "Chris"
       position: "CEO - DS Education and tools"
-      image: "/assets/img/team-1bg.png"
+      image: "assets/img/team-1bg.png"
       body: > 
         Having limited programming skills myself, I had no choice but to trust Calnetic with the entirety of the project from conceptual phase, to an industry-leading (paid) product for our members
       url: 
@@ -123,7 +123,7 @@ home:
     background: "#fff"
     heading: "About Us"
     smallHeading: ""    
-    image: "/assets/img/digital-cyberspace-and-data-network-connections-1.png"
+    image: "assets/img/digital-cyberspace-and-data-network-connections-1.png"
     body: > 
       Whether you need a web app, SaaS, mobile app, business process application, or a system integration, we have been working on your software solution for well over two decades. In fact, we’ve been developing software solutions longer than many of today’s software technologies have been around. So we not only grew with the software industry, we also helped it to grow.<br><br>This is how we’re able to bring a uniquely rich depth of experience and understanding of how to listen — truly listen — to a client’s needs in order to deliver the precise solution to build the solution to meet their goals.<br><br>Isn’t this the kind of approach and the kind of professionals you want to solve your software needs? Then let’s talk — after all, we’ve been working on your solution for many years. Which means your business’s transformation is a lot closer than you think.
   mission:
@@ -131,14 +131,14 @@ home:
     background: "#fff"
     heading: "Our Mission."
     smallHeading: ""    
-    image: "/assets/img/digital-cyberspace-and-data-network-connections-1.jpg"
+    image: "assets/img/digital-cyberspace-and-data-network-connections-1.jpg"
     body: > 
       Our entire careers have been dedicated to providing the best software solutions to companies whose very success could depend upon how effectively our software helps them to achieve their goals. This is why our Mission has always been — and continues to be — to dedicate all of our skills, our expertise, drive and commitment to the goal of helping each client successfully transform their business, and the world.
 
   contact:
     enabled:
     background: "#FAFBFD"
-    image: "/assets/images/book.png"
+    image: "assets/images/book.png"
     heading: "<span>Book a</span> Discovery Call"
     smallHeading: ""
     description: >
@@ -201,13 +201,13 @@ footer:
 social:
   enable: true
   items:
-  - icon: "/assets/img/linkedin.svg"
+  - icon: "assets/img/linkedin.svg"
     title: "linkedin"
     link: "#"
-  - icon: "/assets/img/facebook.svg"
+  - icon: "assets/img/facebook.svg"
     title: "facebook"
     link: "#"
-  - icon: "/assets/img/skype.svg"
+  - icon: "assets/img/skype.svg"
     title: "skype"
     link: "#"
 
