@@ -21,7 +21,7 @@ home:
        WE EMBRACE  YOUR VISION
       body: > 
         We listen carefully to your vision, goals and challenges. Knowing where you are and where you want to be is crucial in our developing the right custom solution
-      url: "#"
+      url: 
       urlText: "View more"
     - heading: >
        IT’S ALL IN THE PLAN
@@ -199,7 +199,7 @@ footer:
 
 
 social:
-  enable: true
+  enable: 
   items:
   - icon: "assets/img/linkedin.svg"
     title: "linkedin"
